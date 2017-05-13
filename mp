@@ -1,4 +1,5 @@
 #!/bin/bash
+# Make Push
 
 git add . -n
 echo -n "Confirm? [y/n]: "
